@@ -12,8 +12,8 @@ public class UserSerImpl implements UserSer {
 
     public UserSerImpl() {
         list = new ArrayList<>();
-        list.add(new User(1,"Shubham Menroy","shubham@gmail.com"));
-        list.add(new User(2,"Sunny","Sunny@gmail.com"));
+        list.add(new User(1,"Yashika Jain","yashika@gmail.com"));
+        list.add(new User(2,"Nishu Jain","Nishu@gmail.com"));
     }
 
     @Override
